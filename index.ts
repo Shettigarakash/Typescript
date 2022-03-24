@@ -1,4 +1,4 @@
 // console.log("wlcome")
 
-let s: string="Akash"
+let str="Akash"
 console.log(s)
